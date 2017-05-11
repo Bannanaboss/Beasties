@@ -1,0 +1,30 @@
+body {
+    background-color: #afceff;
+    font-family: Arial;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #cccccc;
+}
+
+img {
+    margin: 5px;
+}
